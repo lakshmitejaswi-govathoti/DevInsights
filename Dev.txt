@@ -1,0 +1,12 @@
+Atlassian Forge Configuration:
+name: DevInsights
+description: A comprehensive platform for developers and teams to track their progress, identify areas for improvement, and make data-driven decisions.
+version: 1.0.0
+author: Govathoti Lakshmi Tejaswi
+
+modules:
+  key: dev-insights
+   type: generalPage
+   title: DevInsights
+   description: A comprehensive platform for developers and teams to track their progress, identify areas for improvement, and make data-driven decisions.
+    url: /dev-insights
